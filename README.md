@@ -60,14 +60,3 @@ The four plots that you will need to construct are shown below.
 
 add-commit-push https://github.com/Valeryorjuela04/Explotary-Data-analsys/issues/1#issue-703989133
 
-Plot 2
-
-plot of chunk unnamed-chunk-3
-
-Plot 3
-
-plot of chunk unnamed-chunk-4
-
-Plot 4
-
-plot of chunk unnamed-chunk-5
