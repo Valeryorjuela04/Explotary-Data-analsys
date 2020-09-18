@@ -58,6 +58,7 @@ The four plots that you will need to construct are shown below.
 
 # Plot 1
 
+https://github.com/Valeryorjuela04/Explotary-Data-analsys/issues/1#issue-703989133
 
 Plot 2
 
